@@ -1,10 +1,11 @@
 /******** Definition of forEach **************/
-    function forEach(array, callback){
+
+function forEach(array, callback){
     // To be implemented
 }
     
 // Callback Signature
-    function callback(curElement, currentIndex, array){
+function callback(curElement, currentIndex, array){
     // Implemented by the caller of forEach
 }
 
